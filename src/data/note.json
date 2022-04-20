@@ -1,1 +1,74 @@
-[{"id":"XWaQXcbk0","name":"Anton1111dgggggggg","content":"gffffffd 20.01.2002","craeted":"April 20, 2022","category":"Idea","dates":"20.01.2002","archived":false},{"id":"pkXzyRp1P","name":"The theory of evolution","content":"Charles Darwin's theory of evolution","craeted":"April 20, 2022","category":"Random Thought","dates":"","archived":true},{"id":"QMom9q4Ku","name":"New feature","content":"Implement new","craeted":"April 20, 2022","category":"Task","dates":"","archived":false},{"id":"k2k0UrjZG","name":"Health","content":"Introduce a new rule not to eat after six in the evening","craeted":"April 20, 2022","category":"Quote","dates":"","archived":false},{"id":"j2k8U1jZd","name":"William Gaddis","content":"Justice? -You get justice in the next world, in this world you have the law 01.06.","craeted":"April 20, 2022","category":"Task","dates":"","archived":true},{"id":"X2aQ7cvkd","name":"Сourse","content":"Enroll in English 01.06.2022 language courses until 01.05.2022","craeted":"April 20, 2022","category":"Idea","dates":"","archived":false},{"id":"nk3zy1pf8","name":"Hospital","content":"Make an appointment with a dentist","craeted":"April 20, 2022","category":"Idea","dates":"","archived":false},{"id":"b7k2U13fd","name":"Books","content":"The Lean Startup","craeted":"April 20, 2022","category":"Task","dates":"","archived":false},{"id":"1c98c42e-8cf6-4877-b0c9-cada74db59f0","name":"Anton","content":"egergertrgr","category":"X","craeted":"April 20, 2022","dates":"","archived":false},{"id":"ded06ad2-20c2-4fbf-a030-4fe23832af39","name":"Anton","content":"egergertrgr","category":"Idea","craeted":"April 20, 2022","dates":"","archived":false},{"id":"89000b15-49da-4c40-aa42-9ba9624c4428","name":"Anton","content":"egergertrgr","category":"Idea","craeted":"April 20, 2022","dates":"","archived":false},{"id":"f2261c96-ef81-406f-9ccc-e22e887ed17b","name":"Anton","content":"egergertrgr","category":"Idea","craeted":"April 20, 2022","dates":"","archived":false},{"id":"13806fff-7a68-4857-a211-006a20a0366e","name":"Anton1234","content":"egergertrgr","category":"Idea","craeted":"April 20, 2022","dates":"","archived":false},{"id":"49a153d2-653a-4cf1-9b25-61dfa6503006","name":"Anton1234","content":"egergertrgr 10.01.2021","category":"Idea","craeted":"April 20, 2022","dates":"20.01.2022","archived":false},{"id":"2b7b9d77-1e4f-4293-a348-c9bcb91484f2","name":"Anton1234","content":"egergertrgr 10.11.2021","category":"Idea","craeted":"April 20, 2022","dates":"10.11.2021","archived":false}]
+[
+  {
+    "id": "XWaQXcbk0",
+    "name": "Shopping list",
+    "content": "Fruits, Tomatoes, Peaches, Tuna, Potatoes , Garlic , Sour cream , Bacon , Hard cheese , Green onions",
+    "craeted": "April 20, 2022",
+    "category": "Task",
+    "dates": "",
+    "archived": false
+  },
+  {
+    "id": "pkXzyRp1P",
+    "name": "The theory of evolution",
+    "content": "Charles Darwin's theory of evolution",
+    "craeted": "April 20, 2022",
+    "category": "Random Thought",
+    "dates": "",
+    "archived": true
+  },
+  {
+    "id": "QMom9q4Ku",
+    "name": "New feature",
+    "content": "Implement new",
+    "craeted": "April 20, 2022",
+    "category": "Task",
+    "dates": "",
+    "archived": false
+  },
+  {
+    "id": "k2k0UrjZG",
+    "name": "Health",
+    "content": "Introduce a new rule not to eat after six in the evening",
+    "craeted": "April 20, 2022",
+    "category": "Quote",
+    "dates": "",
+    "archived": false
+  },
+  {
+    "id": "j2k8U1jZd",
+    "name": "William Gaddis",
+    "content": "Justice? -You get justice in the next world, in this world you have the law 01.06.",
+    "craeted": "April 20, 2022",
+    "category": "Task",
+    "dates": "",
+    "archived": true
+  },
+  {
+    "id": "X2aQ7cvkd",
+    "name": "Сourse",
+    "content": "Enroll in English 01.06.2022 language courses until 01.05.2022",
+    "craeted": "April 20, 2022",
+    "category": "Idea",
+    "dates": "",
+    "archived": false
+  },
+  {
+    "id": "nk3zy1pf8",
+    "name": "Hospital",
+    "content": "Make an appointment with a dentist",
+    "craeted": "April 20, 2022",
+    "category": "Idea",
+    "dates": "",
+    "archived": false
+  },
+  {
+    "id": "b7k2U13fd",
+    "name": "Books",
+    "content": "The Lean Startup",
+    "craeted": "April 20, 2022",
+    "category": "Task",
+    "dates": "",
+    "archived": false
+  }
+]
