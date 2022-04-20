@@ -1,0 +1,47 @@
+{
+  "name": "hometask_2_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js",
+    "dev": "nodemon --ext js,ts src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton41k/hometask_2_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton41k/hometask_2_nodejs/issues"
+  },
+  "homepage": "https://github.com/anton41k/hometask_2_nodejs#readme",
+  "dependencies": {
+    "@types/joi": "^17.2.3",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "express": "^4.17.3",
+    "http-errors": "^2.0.0",
+    "joi": "^17.6.0",
+    "moment": "^2.29.3",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/http-errors": "^1.8.2",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^17.0.24",
+    "@types/uuid": "^8.3.4",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "tslib": "^2.3.1",
+    "tslint": "^5.20.1",
+    "typescript": "^4.6.3"
+  }
+}
